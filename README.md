@@ -2,7 +2,7 @@
 # Osh
 
 
-I am a backend web developer who mainly codes in Java. As of right now, I am a high school student trying to get accepted into Stanford.
+I mostly do backend and anything software related.
 
 
 
