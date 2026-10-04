@@ -2,7 +2,7 @@
 # Osh
 
 
-I mostly do backend and anything software related.
+I mostly do most things related to software.
 
 
 
