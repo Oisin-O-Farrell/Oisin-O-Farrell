@@ -2,7 +2,7 @@
 # Osh
 
 
-I mostly do most things related to software.
+I do most things related to software.
 
 
 
