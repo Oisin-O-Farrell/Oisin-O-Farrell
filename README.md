@@ -1,8 +1,7 @@
 
 # Osh
 
-
-I'm not adept in any particular field; I mostly focus on anything related to software and embedded software.
+I primarily focus on backend software and embedded software.
 
 
 
