@@ -2,7 +2,7 @@
 # Osh
 
 
-I dabble in most things related to software and embedded software.
+I'm not adept in any particular field; I mostly focus on anything related to software and embedded software.
 
 
 
