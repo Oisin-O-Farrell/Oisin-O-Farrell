@@ -2,7 +2,7 @@
 # Osh
 
 
-I do most things related to software.
+I dabble in most things related to software and embedded software.
 
 
 
