@@ -1,7 +1,7 @@
 
 # Osh
 
-I primarily focus on backend software and embedded software.
+I primarily focus on backend software and embedded software development.
 
 
 
