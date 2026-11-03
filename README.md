@@ -3,6 +3,7 @@
 
 I primarily focus on backend software and embedded software development.
 
+Listen to MF DOOM and the Beastie Boys
 
 
 
