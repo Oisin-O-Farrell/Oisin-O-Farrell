@@ -3,9 +3,6 @@
 
 I primarily focus on backend software and embedded software development.
 
-Listen to MF DOOM and the Beastie Boys
-
-
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,github,git,react,aws,firebase,nodejs,postgres,tailwind,vscode,&perline=9)](https://skillicons.dev)
