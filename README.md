@@ -10,6 +10,8 @@ Faber Est Suae Quisque Fortunae
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=cs,py,php,ts,vite&perline=9)](https://skillicons.dev)
 ## Main Projects
-Nothing here yet.
+Ludusry - Athlete Registry [![Created Badge](https://badges.pufler.dev/created/pujux/badge-it)](https://badges.pufler.dev)
+
+
 
 
