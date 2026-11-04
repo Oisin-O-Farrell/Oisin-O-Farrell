@@ -10,7 +10,7 @@ Faber Est Suae Quisque Fortunae
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=cs,py,php,ts,vite&perline=9)](https://skillicons.dev)
 ## Main Projects
-Ludusry - Athlete Registry [![Created Badge](https://badges.pufler.dev/created/Oisin-O-Farrell/Athlete-Stats-Viewer)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updatedOisin-O-Farrell/Athlete-Stats-Viewer)](https://badges.pufler.dev)
+Ludusry - Athlete Registry [![Created Badge](https://badges.pufler.dev/created/Oisin-O-Farrell/Athlete-Stats-Viewer)](https://badges.pufler.dev)[![Updated Badge](https://badges.pufler.dev/updated/Oisin-O-Farrell/Athlete-Stats-Viewer)](https://badges.pufler.dev)
 
 
 
